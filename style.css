@@ -1,33 +1,67 @@
 .banner {
-    background-image: url(gambar/a861abdc560c8c33e4f70365b39973e6.jpg);
+
+    background-image: url(a861abdc560c8c33e4f70365b39973e6.jpg);
+
     no-repeat center center;
+
     background-size: cover;
+
     padding-top: 20%;
+
     padding-bottom: 20%;
+
 }
+
 h2 {
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
     font: size 100px; 
+
     
+
 }
+
 h1{
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
     font-size: 20%;}
+
 .bacground {
-        background-image: url(gambar/pngtree-gray-solid-color-simple-background-image_557028.jpg);
+
+        background-image: url(g
+                                                                            pngtree-gray-solid-color-simple-background-image_557028.jpg);
+
         no-repeat center center;
+
         background-size: cover;
+
         padding-top: 2%;
+
         padding-bottom: 20%;
+
     }
+
 .crop-img {
+
     object-fit: cover;
+
 }
+
 a.social {
+
     display: inline-block;
+
     color: black;
+
 }
+
 .client img{
+
     height: auto;
+
     max-height: 50px;
+
 }
+
